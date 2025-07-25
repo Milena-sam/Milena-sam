@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou a Milena Sampaio 👋
 
-<!--
-**Milena-sam/Milena-sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Gestão da Tecnologia da Informação e atualmente focada em expandir meus conhecimentos por meio de estudos e projetos práticos.  
 
-Here are some ideas to get you started:
+Aqui no GitHub, compartilho meus códigos, desafios e projetos pessoais para evoluir como desenvolvedora e profissional de tecnologia.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que estou estudando e usando  
+
+- 🌐 HTML & CSS  
+- 🔧 Git & GitHub
+- 💻 JavaScript   
+
+---
+
+## 🎯 Minhas metas atuais  
+- Aprimorar lógica de programação e estruturas de dados  
+- Criar projetos que contribuam para meu desenvolvimento profissional  
+- Começar a colaborar com a comunidade open source  
+
+---
+
+## 📫 Vamos nos conectar!  
+Fique à vontade para acompanhar meu progresso, deixar feedbacks ou colaborar comigo.  
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-sampaio/)](https://www.linkedin.com/in/milena-sampaio/)
+
+---
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-sam&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milena-sam&theme=radical" alt="GitHub Streak" />
+</div>
+
+
+
+
+
