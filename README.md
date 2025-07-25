@@ -35,9 +35,6 @@ Fique à vontade para acompanhar meu progresso, deixar feedbacks ou colaborar co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milena-sam&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milena-sam&theme=radical" alt="GitHub Streak" />
-</div>
 
 
 
