@@ -19,7 +19,6 @@
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       }
- 
     ],
     "softSkills": [
       "Empatia",
@@ -30,10 +29,15 @@
     ]
   },
   "languages": [
-    "Português BR"
-
+    "Português BR",
   ],
-  
+  "portfolio": [
+    {
+      "name": "Meu Portfólio | Desafio DIO",
+      "url": "https://github.com/Milena-sam/Milena-sam.github.io",
+      "github": true
+    }
+  ],
   "professionalExperience": [
     {
       "name": "Analista JR. STFC e MVNO",
