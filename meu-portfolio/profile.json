@@ -1,0 +1,54 @@
+{
+  "name": "Milena da Silva Sampaio",
+  "photo": "https://avatars.githubusercontent.com/u/216615695?v=4",
+  "job": "Analista de Telecomunicação JR. - STFC & MVNO",
+  "location": "São Paulo",
+  "phone": "(16) 98825-6976",
+  "email": "milenadasilvasampaio35@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
+      }
+ 
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR"
+
+  ],
+  
+  "professionalExperience": [
+    {
+      "name": "Analista JR. STFC e MVNO",
+      "period": "2024 - até o momento",
+      "description": "Atuação com foco em sistemas da ABR Telecom, realizando a identificação e resolução de problemas relacionados à telefonia STFC e MVNO."
+    },
+    {
+      "name": "Analista JR. NOC",
+      "period": "2023 - 2024",
+      "description": "Responsável pelo monitoramento de rede utilizando ferramentas como Zabbix e Grafana. Atuação em tratativas de incidentes, identificação e resolução de problemas técnicos em tempo real, atendimento a clientes PJ."
+    },
+    {
+      "name": "Analista de SAC (estágio, N1, N2 e N3)",
+      "period": "2019 - 2023",
+      "description": "Atendimento ao cliente por ligação, WhatsApp, Reclame Aqui e ANATEL, atuando na resolução de problemas mais complexos, principalmente relacionados à internet. Responsável por tratativas de casos sensíveis e críticos, com foco na satisfação do cliente e cumprimento de prazos regulatórios. Realização de reversões e retenções, elaboração de planilhas de acompanhamento."
+    }
+  ]
+}
